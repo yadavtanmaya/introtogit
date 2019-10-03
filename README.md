@@ -1,5 +1,5 @@
 # hactoberfestdtu
-hey, please enter your name below:
+hey, feel free to enter your name, i will try to merge your pull request as soon as possible :)
 
 Vishesh Jain 
 
