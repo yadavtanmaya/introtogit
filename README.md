@@ -1,5 +1,5 @@
 # hactoberfestdtu
-hey, feel free to enter your name, i will try to merge your pull request as soon as possible :)
+Hey, feel free to enter your name, i will try to merge your pull request as soon as possible :)
 
 Vishesh Jain 
 
@@ -21,5 +21,8 @@ Kunal Bhatia
 Shaurya
 
 Tarush Sonakya
+
+
+Viz
 
 Behold!!! Your Saviour is Here!!!!!!
