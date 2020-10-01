@@ -1,6 +1,8 @@
 # hactoberfestdtu
 hey, feel free to enter your name, i will try to merge your pull request as soon as possible :)
 
+Ajid Abdulrahman
+
 Vishesh Jain 
 
 Vaibhav Varshney
